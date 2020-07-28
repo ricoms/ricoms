@@ -20,6 +20,6 @@ I voluntarily organize(d) events for open source data science-related technology
 
 - 🤔 I’m looking for help with learning and applying Kubeflow and Tensorflow Javascript.
 
-- 📫 How to reach me: https://www.linkedin.com/in/ricardoms/
+- 📫 How to reach me: https://www.linkedin.com/in/ricardoms/, https://twitter.com/Rico858 or here at github :)
 
 - ⚡ Fun fact: I worked as a Hotel Manager.
