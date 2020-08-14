@@ -11,7 +11,6 @@ I voluntarily organize(d) events for open source data science-related technology
 4. https://github.com/airbnb/knowledge-repo
 4. https://github.com/dsys/match
 4. https://github.com/andresionek91/airflow-autoscaling-ecs
-4. https://medium.com/@willian.fuks/bad5eb2a9cdd
 5. https://github.com/MaterializeInc/materialize
 5. https://github.com/visenger/awesome-mlops
 
