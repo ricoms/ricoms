@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working as a Senior Research and Development Analyst at Dafiti Group and Udacity's reviewer for Machine Learning and Deep Learning Nanodegrees.
-I voluntarily organize(d) events for open source data science-related technology, and I’m the main organizer for PyData São Paulo.
-
 - 🌱 I’m currently learning building Intelligent Systems. So all about MLOps, DevOps and Machine Learning frameworks I would love to know! Some technologies that I'm digging into right now are:
 1. https://github.com/kubeflow/kubeflow
 2. https://github.com/iterative/cml
