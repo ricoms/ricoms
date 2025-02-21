@@ -15,6 +15,4 @@
 
 - 🤔 I’m looking for help with learning and applying Kubeflow and Tensorflow Javascript.
 
-- 📫 How to reach me: https://www.linkedin.com/in/ricardoms or here at github :)
-
 - ⚡ Fun fact: I worked as a Hotel Manager.
